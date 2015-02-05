@@ -64,16 +64,16 @@
  </div>
 </div>
  </div>
- 
+ </br></br></br>
  <!-- Media strony -->
  
  <div class="col-xs-3">
 <div class="thumbnail">
  <img src="media/monster.jpg">
  <div class="caption">
- <h3>Microsoft</h3>
- <p>Lorem ipsum dolor sit amet, consectetur ...</p>
- <p><a href="#" cl ass="btn btn-primary">Wi ęcej</a></p>
+ <h3>2012</h3>
+ <p>Import opisu z bazy.</p>
+ <p><a href="#" cl ass="btn btn-primary">Więcej</a></p>
  </div>
 </div>
 </a>
@@ -82,9 +82,9 @@
 <div class="thumbnail">
  <img src="media/monster.jpg">
  <div class="caption">
- <h3>Microsoft</h3>
- <p>Lorem ipsum dolor sit amet, consectetur ...</p>
- <p><a href="#" cl ass="btn btn-primary">Wi ęcej</a></p>
+ <h3>Lejdis</h3>
+ <p>Import opisu z bazy....</p>
+ <p><a href="#" cl ass="btn btn-primary">Więcej</a></p>
  </div>
 </div>
 </a>
@@ -93,8 +93,8 @@
 <div class="thumbnail">
  <img src="media/monster.jpg">
  <div class="caption">
- <h3>Microsoft</h3>
- <p>Lorem ipsum dolor sit amet, consectetur ...</p>
+ <h3>Valkiria</h3>
+ <p>Import opisu z bazy....</p>
  <p><a href="#" cl ass="btn btn-primary">Wi ęcej</a></p>
  </div>
 </div>
@@ -104,8 +104,8 @@
  <div class="thumbnail">
  <img src="media/monster.jpg">
  <div class="caption">
- <h3>Microsoft</h3>
- <p>Lorem ipsum dolor sit amet, consectetur ...</p>
+ <h3>Pianista</h3>
+ <p>Import opisu z bazy...</p>
  <p><a href="#" cl ass="btn btn-primary">Wi ęcej</a></p>
  </div>
 </div>
@@ -114,17 +114,21 @@
 </div>
 </br></br></br>
 
-<!-- Pokaz slajdow -->
+<!-- Pokaz slajdow  poprawic nie dziala
 
- <!-- Kontener dla slajdów -->
+ Kontener dla slajdów
+ 
  <div id="bestCarsCarousel" class="carousel slide" data-ride="carousel">
- <!-- Wskaźniki -->
+Wskaźniki
+
  <ol class="carousel-indicators">
  <li data-target="#bestCarsCarousel" data-slide-to="0" class="active"></li>
  <li data-target=" #bestCarsCarousel" data-sl ide-to="1"></li>
  <li data-target="#bestCarsCarousel" data-slide-to="2"></li>
  </ol>
- <!-- Kontener dla slajdów -->
+
+Kontener dla slajdów
+
  <div class="carousel-inner">
  <div class="item active">
  <img src="media/1.jpg">
@@ -148,7 +152,9 @@
  </div>
  </div>
  </div>
- <!-- Kontrolki -->
+ 
+ Kontrolki
+ 
  <a class="left carousel-control" href="#bestCarsCarousel" data-slide="prev">
  <span class="glyphicon glyphicon-chevron-left"></span>
  </a>
@@ -156,6 +162,7 @@
  <span class="glyphicon glyphicon-chevron-right"></span>
  </a>
 </div>
+-->
  <script src="js/jquery.js"></script>
  <script src="js/bootstrap.js"></script>
  </body>
