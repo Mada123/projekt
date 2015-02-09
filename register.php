@@ -38,13 +38,13 @@
  </div>
  <div class="collapse navbar-collapse" id="mynavbar-content">
  <ul class="nav navbar-nav">
- <li class="active"><a href="#">Strona główna</a></li>
- <li><a href="#">O nas</a></li>
- <li><a href="#">Cennik</a></li>
- <li><a href="#">Biblioteka filmów</a></li>
- <li><a href="#">Rejestracja</a></li>
- <li><a href="#">Kontakt</a></li>
- <li><a href="#">Napisz do nas</a></li>
+ <li><a href="index.php">Strona główna</a></li>
+ <li><a href="about.php">O nas</a></li>
+ <li><a href="prices.php">Cennik</a></li>
+ <li><a href="library.php">Biblioteka filmów</a></li>
+ <li><a href="contact.php">Kontakt</a></li>
+ <li><a href="mail.php">Napisz do nas</a></li>
+ <li class="active"><a href="register.php">Zarejestruj</a></li>
  </ul>
  </div>
 
